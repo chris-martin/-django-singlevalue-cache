@@ -1,0 +1,2 @@
+recursive-include django_singlevalue_cache *
+include test_requirements.txt
